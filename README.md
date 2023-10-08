@@ -1,5 +1,9 @@
 # speech_to_text_model
+
 System requirement : GPU RTX 3060 and above
+
+works on kaggle as well as google cloud
+
 notebook 1 : speech-to-text-model.ipynb
      -the files contains a deep learning neural network to make a model that converts the speech to words function 
      -data preprocessing and training the model and savings checkpoints
